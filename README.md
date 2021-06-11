@@ -4,6 +4,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+## Ícones
+
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bug
+- :checkered_flag: release
+
 ```bash
 npm run dev
 # or
